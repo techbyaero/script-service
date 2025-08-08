@@ -4,4 +4,4 @@
 Changes "Connections" to "Friends" on the ROBLOX website.
 <br>
 <br>
-<a href="https://scripts.techbyaero.com/connections-reverter">Install Script</a> &nbsp;&nbsp;&nbsp;&nbsp<a href="https://github.com/techbyaero/connections-reverter">View GitHub Repo</a>
+<a href="https://scripts.techbyaero.com/connections-reverter">Install Script</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/techbyaero/connections-reverter">View GitHub Repo</a>
